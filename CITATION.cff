@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Health Policy Evaluation Kit"
+version: 0.1.0
+date-released: 2026-07-12
+authors:
+  - family-names: "Wang"
+    given-names: "Kris"
+repository-code: "https://github.com/arcwangyu/health-policy-eval-kit"
+license: MIT
+keywords:
+  - health policy
+  - interrupted time series
+  - panel data
+  - reproducible research
